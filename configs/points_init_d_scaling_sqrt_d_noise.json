@@ -1,0 +1,14 @@
+{
+    "n_runs": 5,
+    "d": [100, 150, 200, 250],
+    "k": [5, 7, 10, 12],
+    "p": [200, 300, 400, 500],
+    "pp": [400, 600, 800, 1000],
+    "mask_size": [90, 135, 180, 225],
+    "noise_level": "sqrt_d",
+    "init_type": "points_init",
+    "dataset_size": 1000,
+    "batch_size": 200,
+    "lr": 1e-3,
+    "n_iter": 500
+}

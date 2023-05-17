@@ -1,0 +1,13 @@
+{
+    "n_runs": 1,
+    "d": [50],
+    "k": [10],
+    "p": [100],
+    "pp": [600],
+    "mask_size": [25],
+    "noise_level": "sqrt_d",
+    "init_type": "points_init",
+    "batch_size": 100,
+    "lr": 1e-1,
+    "n_iter": 1000
+}
